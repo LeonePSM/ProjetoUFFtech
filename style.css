@@ -8,7 +8,7 @@
 }
 
 html{
-    scroll-behavior: auto;
+    scroll-behavior: smooth;
 }
 nav{
     width: 100%;
